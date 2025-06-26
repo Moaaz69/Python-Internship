@@ -1,3 +1,4 @@
+#Intro to Variables & Typecasting
 int_input = int(input("Enter an integer: "))
 float_input = float(input("Enter a float: "))
 string_input = input("Enter a string: ")
