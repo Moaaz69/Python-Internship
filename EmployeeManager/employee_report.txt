@@ -1,0 +1,6 @@
+Employee Report
+====================
+Moaaz Saeed | Development | 50000.1 | 2024
+
+Total Employees: 1
+Average Salary: 50000.10
