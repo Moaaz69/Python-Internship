@@ -1,0 +1,9 @@
+
+Data Visualization Summary Report
+
+✅ Line_Chart_Monthly_Sales.png   : Total Sales per Month
+✅ Bar_Chart_Sales_by_Category.png: Total Sales by Product Category
+✅ Pie_Chart_Orders_by_Region.png : Proportion of Orders by Region
+✅ Heatmap_Correlation.png        : Correlation among numerical variables
+
+All plots saved in the 'plots/' folder.

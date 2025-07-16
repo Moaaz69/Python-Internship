@@ -1,0 +1,3 @@
+Soap: Quantity=13, Total Value=650.00
+Milk: Quantity=7, Total Value=560.00
+Cheese: Quantity=7, Total Value=1400.00
