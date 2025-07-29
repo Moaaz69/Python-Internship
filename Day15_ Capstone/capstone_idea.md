@@ -1,13 +1,17 @@
 
                            **Capstone Project Plan**  
 
-Project Title
+###Project Title
+
 Heart Disease Risk Predictor – Smart Diagnosis Through Data
 
-Objective
+
+###Objective
+
 This project aims to assist healthcare professionals and individuals in identifying the likelihood of heart disease based on medical attributes. Using a machine learning-based predictive model, it evaluates key health indicators to provide an accurate risk assessment.
 
-Features
+###Features
+
 User-friendly interface for uploading or entering patient data
 
 Predicts heart disease risk based on clinical parameters
