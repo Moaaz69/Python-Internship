@@ -41,12 +41,12 @@ A simple CLI-based interface manages user interaction and reporting.
 
 Timeline
 Week	                          Tasks
- 1	                          Explore dataset, define features, and clean/preprocess the data
- 2	                          Train baseline model (Random Forest), evaluate performance
- 3	                          Add visualizations (heatmaps, feature importance)
- 4  	                        Build CLI for input/prediction, add report generation
- 5	                          Improve model accuracy, add error handling and polish UI
- 6	                          Prepare pitch deck, code documentation, and optional demo video
+ 1	             Explore dataset, define features, and clean/preprocess the data
+ 2	             Train baseline model (Random Forest), evaluate performance
+ 3	             Add visualizations (heatmaps, feature importance)
+ 4  	           Build CLI for input/prediction, add report generation
+ 5	             Improve model accuracy, add error handling and polish UI
+ 6	             Prepare pitch deck, code documentation, and optional demo video
 
 Team Members and Roles
 Moaaz Saeed — responsible for data preprocessing, model training, evaluation, CLI development, and reporting
