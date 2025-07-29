@@ -1,56 +1,53 @@
 
                            **Capstone Project Plan**  
 
-Project Title  
-             Smart Expense Tracker – Track, Analyze, and Save**  
+Project Title
+Heart Disease Risk Predictor – Smart Diagnosis Through Data
 
- Objective  
-This project aims to help individuals manage their personal finances by tracking expenses, analyzing spending habits, and suggesting ways to save money — all through a simple, smart, and user-friendly Python-based tool.  
+Objective
+This project aims to assist healthcare professionals and individuals in identifying the likelihood of heart disease based on medical attributes. Using a machine learning-based predictive model, it evaluates key health indicators to provide an accurate risk assessment.
 
+Features
+User-friendly interface for uploading or entering patient data
 
+Predicts heart disease risk based on clinical parameters
 
- Features  
-- A user-friendly CLI (or optional web interface) to log income and expenses  
-- Automatically categorizes expenses into categories like Food, Transport, Bills, etc.  
-- Generates monthly and weekly reports with charts  
-- Lets users set and track budget goals  
-- Provides notifications or suggestions when overspending is detected  
-- Can export reports as PDF or CSV  
-- Keeps data secure and private on the user’s machine, with an optional cloud storage feature  
+Displays prediction result with probability score
 
-Tools and Libraries  
-Python 3.x will be used as the core language.  
-The project will use pandas for data management, matplotlib or seaborn for creating charts and analytics, and rich or tqdm to make the CLI more interactive.  
-ReportLab or FPDF will be used to generate PDF reports, and sqlite3 will handle local data storage.  
-An optional web version can be built using Flask or Streamlit.  
+Highlights most influential features (like cholesterol, age, etc.)
 
+Generates visualizations (correlation heatmap, feature importance)
 
+Summarizes prediction results in a text-based report
 
-Timeline  
+Option to save predictions and reports locally for records
 
-| Week |                      Tasks                                        |
-|------|-------------------------------------------------------------------|
-| 1    |  Define the scope and features, and design the data model         |
-| 2    |  Build expense and income logging along with data storage         |
-| 3    |  Implement expense categorization and reporting                   |
-| 4    |  Add budget tracking, notifications, and charts                   |
-| 5    |  Perform testing, debugging, and write documentation              |
-| 6    |  Create the pitch deck, UI mockups, and optionally record a video |
+Tools and Libraries
 
+Python 3.x serves as the core development language.
+The project uses:
 
+pandas and numpy for data handling
 
- Team Members and Roles  
-Moaaz Saeed — responsible for development, feature design, analytics, and CLI development.  
-Tabish Khan — can help with testing, documentation, and UI/UX suggestions.  
+scikit-learn for model training and evaluation
+
+matplotlib and seaborn for visual analytics
+
+joblib for saving and loading the model
+
+os and json for file operations
+A simple CLI-based interface manages user interaction and reporting.
 
 
+Timeline
+Week	                          Tasks
+ 1	                          Explore dataset, define features, and clean/preprocess the data
+ 2	                          Train baseline model (Random Forest), evaluate performance
+ 3	                          Add visualizations (heatmaps, feature importance)
+ 4  	                        Build CLI for input/prediction, add report generation
+ 5	                          Improve model accuracy, add error handling and polish UI
+ 6	                          Prepare pitch deck, code documentation, and optional demo video
 
-Bonus Challenge  
-A pitch deck is planned with slides covering the problem, solution, features, demo screens, and tech stack.  
-UI mockups and an architecture diagram will also be created using Figma or draw.io.  
-A short 1-minute pitch video is optional but considered.  
-
-
-Notes  
-This document is the main deliverable for the Capstone Planning stage.  
-Any bonus materials like the pitch deck, mockups, or video will also be added to the Capstone folder when ready.  
+Team Members and Roles
+Moaaz Saeed — responsible for data preprocessing, model training, evaluation, CLI development, and reporting
+Tabish Khan — assists in testing, documentation, visual design, and reviewing model outputs
