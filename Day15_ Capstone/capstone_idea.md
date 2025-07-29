@@ -1,46 +1,40 @@
 
                            **Capstone Project Plan**  
-
-###Project Title
-
+🩺 Project Title
 Heart Disease Risk Predictor – Smart Diagnosis Through Data
 
+🎯 Objective
+This project is designed to assist both healthcare professionals and individuals in predicting the risk of heart disease using clinical data. By leveraging a machine learning model, the tool provides a data-driven assessment based on key medical attributes, supporting early diagnosis and preventive action.
 
-###Objective
+⚙️ Features
+🧾 Simple CLI interface for entering or uploading patient data
 
-This project aims to assist healthcare professionals and individuals in identifying the likelihood of heart disease based on medical attributes. Using a machine learning-based predictive model, it evaluates key health indicators to provide an accurate risk assessment.
+🧠 Predicts heart disease likelihood based on medical indicators
 
-###Features
+📊 Displays prediction result along with a probability score
 
-User-friendly interface for uploading or entering patient data
+📌 Highlights top contributing factors (e.g., cholesterol, age, ST slope)
 
-Predicts heart disease risk based on clinical parameters
+🌡️ Visualizations like correlation heatmap and feature importance plots
 
-Displays prediction result with probability score
+📝 Generates a clear, text-based prediction report
 
-Highlights most influential features (like cholesterol, age, etc.)
+💾 Option to save predictions and reports locally for recordkeeping
 
-Generates visualizations (correlation heatmap, feature importance)
+🧰 Tools & Libraries
+Built using Python 3.x, the project utilizes:
 
-Summarizes prediction results in a text-based report
+pandas, numpy – for data manipulation
 
-Option to save predictions and reports locally for records
+scikit-learn – for model training & evaluation
 
-Tools and Libraries
+matplotlib, seaborn – for data visualization
 
-Python 3.x serves as the core development language.
-The project uses:
+joblib – to save/load ML models
 
-pandas and numpy for data handling
+os, json – for file operations
 
-scikit-learn for model training and evaluation
-
-matplotlib and seaborn for visual analytics
-
-joblib for saving and loading the model
-
-os and json for file operations
-A simple CLI-based interface manages user interaction and reporting.
+A custom Command-Line Interface for seamless user interaction
 
 
 ### 📅 Timeline
