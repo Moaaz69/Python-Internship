@@ -1,0 +1,25 @@
+
+My Python Internship Journey at ProSensia 
+
+Over the past weeks, I’ve completed the ProSensia Python Internship, working on real-world projects from data analysis and automation to machine learning and API integration.
+
+Here’s what I learned:
+
+Python Fundamentals: Improved my coding style, OOP, and modular design.
+
+Data Science: Used pandas, matplotlib, and seaborn for data cleaning and visualization.
+
+APIs & Automation: Built CLI tools and integrated public APIs for real-time data.
+
+Machine Learning: Developed a heart disease prediction model and learned about feature importance and model evaluation.
+
+Testing & Debugging: Practiced writing unit tests and robust error handling.
+
+Deployment: Deployed apps online and wrote clear documentation for users.
+
+
+Challenges:
+Debugging, learning new libraries quickly, and making my code user-friendly.
+
+What’s Next:
+I’m excited to keep building, learning, and contributing to open-source!
